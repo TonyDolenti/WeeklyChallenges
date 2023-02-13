@@ -6732,11 +6732,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tbrun\\repos\\Weekly Challenges\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\tbrun\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
       "projectName": "ChallengesWithTestsMark8.Tests",
-      "projectPath": "C:\\Users\\tbrun\\repos\\Weekly Challenges\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
+      "projectPath": "C:\\Users\\tbrun\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
       "packagesPath": "C:\\Users\\tbrun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tbrun\\repos\\Weekly Challenges\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\obj\\",
+      "outputPath": "C:\\Users\\tbrun\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tbrun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6753,8 +6753,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\tbrun\\repos\\Weekly Challenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
-              "projectPath": "C:\\Users\\tbrun\\repos\\Weekly Challenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj"
+            "C:\\Users\\tbrun\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj": {
+              "projectPath": "C:\\Users\\tbrun\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj"
             }
           }
         }

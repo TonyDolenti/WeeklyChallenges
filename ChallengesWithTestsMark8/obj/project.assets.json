@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tbrun\\repos\\Weekly Challenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+      "projectUniqueName": "C:\\Users\\tbrun\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
       "projectName": "ChallengesWithTestsMark8",
-      "projectPath": "C:\\Users\\tbrun\\repos\\Weekly Challenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+      "projectPath": "C:\\Users\\tbrun\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
       "packagesPath": "C:\\Users\\tbrun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tbrun\\repos\\Weekly Challenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\obj\\",
+      "outputPath": "C:\\Users\\tbrun\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tbrun\\AppData\\Roaming\\NuGet\\NuGet.Config",

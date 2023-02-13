@@ -15,7 +15,6 @@ namespace ChallengesWithTestsMark8
                 return false;
             }
         }
-
         public double Subtract(double minuend, double subtrahend)
         {
             return minuend - subtrahend;
@@ -32,25 +31,22 @@ namespace ChallengesWithTestsMark8
             {
                 return number1;
             }
-            return number2;
+            else 
+                return number2;
         }
 
         public long Multiply(long factor1, long factor2)
         {
-            return factor1 * factor2;
+            return factor1* factor2;
         }
 
         public string GetGreeting(string nameOfPerson)
         {
-            //if (nameOfPerson == "")
-            //{
-            //    return "Hello!";
-            //}
-            //else
-            //{
-            //    return $"Hello, {nameOfPerson}!";
-            //}
-            return string.IsNullOrEmpty(nameOfPerson) ? "Hello!" : $"Hello, {nameOfPerson}!";
+            if(nameOfPerson == null || nameOfPerson == String.Empty)
+            {
+                return "Hello!";
+            }
+            return $"Hello, {nameOfPerson}!";
         }
 
         public string GetHey()
